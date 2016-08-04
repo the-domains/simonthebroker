@@ -6,9 +6,9 @@ color:
   saturation: 0.8434818536043167
   rhythmicContrast: 0.09922980586998165
   brandColors:
-    - '#FFFFFF'
-    - '#90B3CF'
-    - '#B4D3EE'
-    - '#496C6D'
-    - '#17212D'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: SimonTheBroker
